@@ -19,6 +19,7 @@ namespace WebApplication9
         public Startup(IConfiguration configuration)
         {
             var isim = "fatih çakıroğlu";
+            var isim2 = "ÖFD";
             Configuration = configuration;
         }
 

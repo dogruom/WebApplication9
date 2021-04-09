@@ -20,6 +20,7 @@ namespace WebApplication9
         {
             var isim = "fatih çakıroğlu";
             var isim2 = "ÖFD";
+            var isim3 = "Buse";
             Configuration = configuration;
         }
 
